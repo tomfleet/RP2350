@@ -7,3 +7,21 @@
 ![](assets/20240816_043342_picturepimopipico2pluspinoutpng.png)
 
 ### Others to follow...
+
+
+## SeeedStudio Xiao RP2350
+
+- [https://wiki.seeedstudio.com/getting-started-xiao-rp2350/](https://https://wiki.seeedstudio.com/getting-started-xiao-rp2350/)
+-
+
+
+![XIAO RP2350 Front Pinout](https://files.seeedstudio.com/wiki/XIAO-RP2350/img/XIAO-RP2350-front.png)
+
+
+
+## SolderParty RP2350 Stamp XL
+
+- [https://www.solder.party/docs/rp2350-stamp-xl/](https://https://www.solder.party/docs/rp2350-stamp-xl/)
+
+
+![Front](https://www.solder.party/docs/rp2350-stamp-xl/front_xl.jpg)
