@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "G:/rep02/rp23xx/rp2350/code/picoSDK/pwm_led_fade"
+    "cmake.sourceDirectory": "G:/rep02/rp23xx/rp2350/code/picoSDK/pwm_led_fade",
+    "svn.ignoreMissingSvnWarning": true
 }
